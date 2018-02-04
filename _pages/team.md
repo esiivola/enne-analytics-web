@@ -6,4 +6,4 @@ author_profile: false
 
 ### People behind Enne Analytics
 
-<img src="/images/team.JPG" alt="" style="width: 500px;"/>
+<img src="/images/team.jpg" alt="" style="width: 500px;"/>
