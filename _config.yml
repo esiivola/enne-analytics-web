@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Enne Analytics"
   avatar           : ""
-  bio              : "We provide concultancy on data analytics"
+  bio              : ""
   location         : "Helsinki, Finland"
   email            :
   uri              :
@@ -120,7 +120,6 @@ author:
 include:
   - .htaccess
   - _pages
-  - images
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"

@@ -4,4 +4,4 @@ permalink: /team/
 author_profile: false
 ---
 ### People behind Enne Analytics
-![](/images/team.jpg)
+![](/assets/images/team.jpg)
