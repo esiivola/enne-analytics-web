@@ -5,10 +5,34 @@ author_profile: false
 ---
 
 
-### What do we offer
+### What we offer:
 
-* Because of the versatile backgrounds in the team, we can be of assistance in many phases of the Data Analysis.
-* We can facilitate strategy workshops to identify quick win projects for our customers as well help to formulate Data Analytics Strategies for our customers.
-* We can do complete pilot projects to assess feasibility of your ideas. 
-* We can give training to Business Leadership on Data Analytics and Machine learning as well specialised training on building and implementing models to analyse data.
-* We use probabilistic machine learning techniques whenever possible. The advantages of probabilistic methods can be seen when we not only want to predict from the data but also want to understand the data.
+We combine data science with product development to help you  
+use your data the best. By quick testing of ideas, proof of  
+concepts and risk analysis, we help you minimize the risk of  
+investment and quarantee to only promise what the data allows  
+us to.  
+
+We take your bussiness seriosly. By combining your domain  
+knowledge, our top edge data science knowledge and close  
+collaboration during the projects, we quarantee quality. By  
+clear visualisations and direct communication, we keep you up  
+to date at all phases of the project and maybe even help you  
+learn something new on the way!
+
+### What makes us different from our competitors:
+* We use probabilistic machine learning techniques  
+whenever possible.
+  * Probabilistic methods also estimate the error  
+  in prediction. This way you can be sure that the  
+  model does the right thing with the right accuracy.
+  * Probabilistic methods help to understand the  
+  data better.
+* We love open source. We even develop it ourselves.  
+By using open source, we minimize the licence costs  
+that often do not provide any extra value.
+* In data science, the timespan from the theory  
+to practice is short. We have strong academic  
+background and know the newest directions in  
+the research. This way we can quarantee to  
+deliver only the best.

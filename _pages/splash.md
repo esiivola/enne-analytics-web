@@ -7,9 +7,9 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.2"
   overlay_image: /images/telescope.jpg
-  cta_label: "Find out more..."
+  cta_label: "Let us show you how"
   cta_url: "/services/"
-excerpt: "We help you understand and make better solutions"
+excerpt: "Data science will make your business bloom your business"
 ---
 
 <!--{% include feature_row %}
