@@ -9,7 +9,7 @@ header:
   overlay_image: /images/telescope.jpg
   cta_label: "Let us show you how"
   cta_url: "/services/"
-excerpt: "Data science will make your business bloom your business"
+excerpt: "Data science will make your business bloom"
 ---
 
 <!--{% include feature_row %}

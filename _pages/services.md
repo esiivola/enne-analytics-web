@@ -10,14 +10,14 @@ author_profile: false
 We combine data science with product development to help you  
 use your data the best. By quick testing of ideas, proof of  
 concepts and risk analysis, we help you minimize the risk of  
-investment and quarantee to only promise what the data allows  
+investment and guarantee to only promise what the data allows  
 us to.  
 
 We take your bussiness seriosly. By combining your domain  
-knowledge, our top edge data science knowledge and close  
-collaboration during the projects, we quarantee quality. By  
-clear visualisations and direct communication, we keep you up  
-to date at all phases of the project and maybe even help you  
+knowledge, our data science knowledge and close collaboration  
+during the projects, we guarantee quality. By clear  
+visualisations and direct communication, we keep you up to  
+date at all phases of the project and maybe even help you  
 learn something new on the way!
 
 ### What makes us different from our competitors:
@@ -34,5 +34,5 @@ that often do not provide any extra value.
 * In data science, the timespan from the theory  
 to practice is short. We have strong academic  
 background and know the newest directions in  
-the research. This way we can quarantee to  
+the research. This way we can guarantee to  
 deliver only the best.
