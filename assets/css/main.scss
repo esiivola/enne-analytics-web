@@ -4,5 +4,12 @@
 
 @charset "utf-8";
 
+
+/* customizations */
+$background-color: #d0d2d2 !default;
+$primary-color: #094c68 !default;
+$footer-background-color: $primary-color !default;
+
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials

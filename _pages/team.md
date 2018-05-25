@@ -7,4 +7,4 @@ author_profile: false
 ![]({{"/images/team.jpg" | absolute_url}})
 
 
-Contact: ilkka.raiskinen(a)genneanalytics.com
+Contact: ilkka.raiskinen(at)enneanalytics.com
