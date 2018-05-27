@@ -1,15 +1,15 @@
 ---
-title: "What is hidden in your data?"
+title: "Tailored AI solutions"
 layout: splash
 permalink: /
-date: 2016-03-23T11:48:41-04:00
+date: 2018-05-27
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
   overlay_image: /images/pohja.svg
-  cta_label: "Let us show you how"
+  cta_label: "More information about our services"
   cta_url: "/services/"
-excerpt: "Data science will make your business bloom"
+excerpt: "We provide independent data analytics solutions and consulting tailored to our customers' needs."
 ---
 
 <!--{% include feature_row %}
