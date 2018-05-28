@@ -1,13 +1,16 @@
 ---
+title: "Team"
 layout: splash
 permalink: /team/
 author_profile: false
 ---
 # People behind Enne Analytics
 
-![]({{"/images/team.jpg" | absolute_url}})
+<figure style="width: 80%;">
+  <img src="/images/team.jpg" alt="Team photo">
+</figure>
 
-<table style="font-size: 1em; font-weight: normal !important;">
+<table style="font-size: 1em; font-weight: normal !important; margin-bottom: 3em;">
   <tr>
   <th width="180px" style="font-weight: normal; color:#888; padding: 0em; line-height: 180%;">
     Top left:
@@ -59,9 +62,6 @@ author_profile: false
   </th>
   </tr>
 </table>
-
-
-
 
 # Contact
 

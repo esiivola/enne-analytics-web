@@ -1,4 +1,5 @@
 ---
+title: "Services"
 layout: splash
 permalink: /services/
 author_profile: false
