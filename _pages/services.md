@@ -5,7 +5,7 @@ author_profile: false
 ---
 
 
-### What we offer:
+# What we offer:
 
 We combine data science with product development to help you  
 use your data the best. By quick testing of ideas, proof of  
@@ -20,7 +20,7 @@ visualisations and direct communication, we keep you up to
 date at all phases of the project and maybe even help you  
 learn something new on the way!
 
-### What makes us different from our competitors:
+# What makes us different from our competitors:
 * We use probabilistic machine learning techniques  
 whenever possible.
   * Probabilistic methods also estimate the error  
