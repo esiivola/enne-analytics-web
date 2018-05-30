@@ -6,13 +6,13 @@ author_profile: false
 ---
 # People behind Enne Analytics
 
-<figure style="width: 80%;">
+<figure style="width: 40em;">
   <img src="/images/team.jpg" alt="Team photo">
 </figure>
 
 <table style="font-size: 1em; font-weight: normal !important; margin-bottom: 3em;">
   <tr>
-  <th width="180px" style="font-weight: normal; color:#888; padding: 0em; line-height: 180%;">
+  <th style="width: 8em; font-weight: normal; color:#888; padding: 0em; line-height: 180%;">
     Top left:
   </th>
   <th style="padding: 0em;">
