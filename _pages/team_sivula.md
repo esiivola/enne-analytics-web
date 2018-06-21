@@ -1,5 +1,7 @@
 ---
 layout: single
+classes:
+  - our-other-page
 permalink: /team/tuomas_sivula/
 author_profile: false
 sidebar:

@@ -1,5 +1,7 @@
 ---
 layout: single
+classes:
+  - our-other-page
 permalink: /team/juho_piironen/
 author_profile: false
 sidebar:

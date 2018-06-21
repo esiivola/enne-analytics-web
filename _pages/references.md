@@ -1,6 +1,8 @@
 ---
 title: "References"
 layout: splash
+classes:
+  - our-other-page
 permalink: /references/
 author_profile: false
 feature_row:

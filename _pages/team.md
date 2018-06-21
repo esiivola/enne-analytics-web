@@ -1,11 +1,19 @@
 ---
 title: "Team"
 layout: splash
+classes:
+  - our-other-page
 permalink: /team/
 author_profile: false
 ---
 # People behind Enne Analytics
 
+<!-- border -->
+<!-- <figure style="width: 40em; border-width: 12px; border-style: solid; border-color: #f15a2b;">
+  <img src="/images/team.jpg" alt="Team photo" style="border-radius: 0px; margin-bottom: 0em;">
+</figure> -->
+
+<!-- or no border -->
 <figure style="width: 40em;">
   <img src="/images/team.jpg" alt="Team photo">
 </figure>
@@ -16,7 +24,7 @@ author_profile: false
     Top left:
   </th>
   <th style="padding: 0em;">
-    <a href="/team/jarno_lintusaari" style="font-weight: normal; letter-spacing: 1px; color:white; text-decoration: none;">
+    <a href="/team/jarno_lintusaari" style="font-weight: normal; letter-spacing: 1px; text-decoration: none;">
       Jarno Lintusaari
     </a>
   </th>
@@ -26,7 +34,7 @@ author_profile: false
     Top right:
   </th>
   <th style="padding: 0em;">
-    <a href="/team/juho_piironen" style="font-weight: normal; letter-spacing: 1px; color:white; text-decoration: none;">
+    <a href="/team/juho_piironen" style="font-weight: normal; letter-spacing: 1px; text-decoration: none;">
       Juho Piironen
     </a>
   </th>
@@ -36,7 +44,7 @@ author_profile: false
     Bottom left:
   </th>
   <th style="padding: 0em;">
-    <a href="/team/eero_siivola" style="font-weight: normal; letter-spacing: 1px; color:white; text-decoration: none;">
+    <a href="/team/eero_siivola" style="font-weight: normal; letter-spacing: 1px; text-decoration: none;">
       Eero Siivola
     </a>
   </th>
@@ -46,7 +54,7 @@ author_profile: false
     Bottom center:
   </th>
   <th style="padding: 0em;">
-    <a href="/team/ilkka_raiskinen" style="font-weight: normal; letter-spacing: 1px; color:white; text-decoration: none;">
+    <a href="/team/ilkka_raiskinen" style="font-weight: normal; letter-spacing: 1px; text-decoration: none;">
       Ilkka Raiskinen
     </a>
   </th>
@@ -56,7 +64,7 @@ author_profile: false
     Bottom right:
   </th>
   <th style="padding: 0em;">
-    <a href="/team/tuomas_sivula" style="font-weight: normal; letter-spacing: 1px; color:white; text-decoration: none;">
+    <a href="/team/tuomas_sivula" style="font-weight: normal; letter-spacing: 1px; text-decoration: none;">
       Tuomas Sivula
     </a>
   </th>

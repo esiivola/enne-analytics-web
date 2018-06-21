@@ -1,5 +1,7 @@
 ---
 layout: single
+classes:
+  - our-other-page
 permalink: /team/jarno_lintusaari/
 author_profile: false
 sidebar:

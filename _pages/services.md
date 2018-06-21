@@ -1,6 +1,8 @@
 ---
 title: "Services"
 layout: splash
+classes:
+  - our-other-page
 permalink: /services/
 author_profile: false
 ---

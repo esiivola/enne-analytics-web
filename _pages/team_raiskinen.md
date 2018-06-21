@@ -1,5 +1,7 @@
 ---
 layout: single
+classes:
+  - our-other-page
 permalink: /team/ilkka_raiskinen/
 author_profile: false
 sidebar:

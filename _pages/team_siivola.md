@@ -1,5 +1,7 @@
 ---
 layout: single
+classes:
+  - our-other-page
 permalink: /team/eero_siivola/
 author_profile: false
 sidebar:

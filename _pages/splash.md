@@ -1,6 +1,8 @@
 ---
 title: "Tailored AI solutions"
 layout: splash
+classes:
+  - our-main-page
 permalink: /
 date: 2018-05-27
 header:
@@ -11,8 +13,3 @@ header:
   cta_url: "/services/"
 excerpt: "We provide independent data analytics solutions and consulting tailored to our customers' needs."
 ---
-
-<!--{% include feature_row %}
-
-Photo by Krissana Porto on Unsplash
--->

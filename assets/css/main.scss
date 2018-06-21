@@ -6,9 +6,54 @@
 
 
 /* customizations */
-$background-color: #222c33 !default;
-$primary-color: #094c68 !default;
+
+// old colour schema
+// $background-color: #222c33 !default;
+// $primary-color: #094c68 !default;
+// $footer-background-color: $primary-color !default;
+
+
+$background-color: #f4f4f4 !default;
+$primary-color: #262e45 !default;
 $footer-background-color: $primary-color !default;
+
+.masthead {
+    border-bottom: 12px solid #f15a2b !important;
+    background-color: $primary-color !important;
+}
+
+// orange border for footer
+// .page__footer {
+//     border-top: 12px solid #f15a2b !important;
+// }
+
+#site-nav {
+    background: $primary-color !important;
+}
+
+.greedy-nav a {
+    color: #fff !important;
+}
+
+// body.our-main-page {
+//     background-color: $primary-color !important;
+// }
+
+// .our-main-page .masthead {
+//     border-bottom: 12px solid $primary-color !important;
+// }
+
+// margin for bohts sides of the picture
+// .our-main-page .initial-content {
+//     margin-top: 4em;
+//     margin-bottom: 4em;
+// }
+
+.our-main-page .page__hero--overlay {
+    height: 18em;
+}
+
+
 
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
