@@ -6,18 +6,3 @@ main:
     url: /references/
   - title: "Team"
     url: /team/
-
-team:
-  - title: "Team"
-    url: /team/
-    children:
-    - title: "Jarno Lintusaari"
-      url: /team/jarno_lintusaari/
-    - title: "Juho Piironen"
-      url: /team/juho_piironen/
-    - title: "Ilkka Raiskinen"
-      url: /team/ilkka_raiskinen/
-    - title: "Eero Siivola"
-      url: /team/eero_siivola/
-    - title: "Tuomas Sivula"
-      url: /team/tuomas_sivula/
